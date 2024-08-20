@@ -1,0 +1,35 @@
+body {background-color: rgb(56, 52, 50);
+	font-size:xx-large;
+	color: white;
+}
+.container{
+	font-size: xx-large;
+	display: inline;
+	justify-content: space-evenly;
+	font-family: roboto;
+	border-style: solid;
+}
+.container>.homelink{
+	font-style: roboto;
+	height: 75px;
+	width: 100px;
+	;
+}
+.container>.aboutlink{
+
+	height: 75px;
+	width: 100px;
+	
+}
+.container>.contactlink{
+	
+	height: 75px;
+	width: 100px;
+	
+}
+.about{
+	font-size: xx-large;
+	display: ruby-base;
+	
+	
+}
